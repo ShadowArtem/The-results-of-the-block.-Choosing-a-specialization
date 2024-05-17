@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "algoritm", "algoritm.csproj", "{7E123B14-B902-46DD-BBC8-C16CEE64E4B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prog", "prog.csproj", "{A742EA7E-8CC8-4C68-A27B-DB38D9ED6249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E123B14-B902-46DD-BBC8-C16CEE64E4B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E123B14-B902-46DD-BBC8-C16CEE64E4B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E123B14-B902-46DD-BBC8-C16CEE64E4B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E123B14-B902-46DD-BBC8-C16CEE64E4B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A742EA7E-8CC8-4C68-A27B-DB38D9ED6249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A742EA7E-8CC8-4C68-A27B-DB38D9ED6249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A742EA7E-8CC8-4C68-A27B-DB38D9ED6249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A742EA7E-8CC8-4C68-A27B-DB38D9ED6249}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {130F8A54-AAE2-4E9E-9846-0C715750271B}
+	EndGlobalSection
+EndGlobal
